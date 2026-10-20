@@ -1,10 +1,10 @@
 {
     "canal":  "estable",
-    "version":  "1.0.11+12",
-    "url":  "https://github.com/thalmor/mostrador-releases/releases/download/v1.0.11+12/mostrador-1.0.11%2B12-setup.exe",
-    "sha256":  "2cd73908e3c61a4c672ad9bd3e08025656dadf56bc29fbbfce0b73ce83c2954a",
-    "tamano":  16173401,
-    "publicado":  "2026-10-20T15:55:00Z",
+    "version":  "1.0.12+13",
+    "url":  "https://github.com/thalmor/mostrador-releases/releases/download/v1.0.12+13/mostrador-1.0.12%2B13-setup.exe",
+    "sha256":  "806341698268bd4e59f63df1d8ee321c8aa39b9f83e66fae698f8c84a500a7a3",
+    "tamano":  16175941,
+    "publicado":  "2026-10-20T17:04:13Z",
     "notas":  "",
-    "firma":  "VQx0NQL48gvqSYjP9MRhHNXFecO5PsaDTnfOmLp1m8oIN1OoO7QNX6jukJwCHNrBx4qHKARPUr/0VX23P2o9Ag=="
+    "firma":  "WqxJmyjnPuoCzp9rWhGr8YixzVgLqqsW1ySxlfYQeIniCKSfstd/OmDEJOlK2uN5SVUdexxSZc6KTeU5pJn/Dw=="
 }
